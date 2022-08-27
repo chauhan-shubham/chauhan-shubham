@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chauhan-shubham
+- 👋 Hi, I’m @Shubham Chauhan
 - 👀 I’m interested in learning new stuff and do hardcore coding to solve technical challenges. 
 - 🌱 I’m currently learning java competitive programming
 - 💞️ I’m looking to collaborate on any platform.
